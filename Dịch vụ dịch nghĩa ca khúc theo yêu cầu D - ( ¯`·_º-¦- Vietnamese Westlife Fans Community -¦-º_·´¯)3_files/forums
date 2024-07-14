@@ -1,0 +1,3005 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="favicon.ico" />
+<title>( ¯`·.º-:¦:- Vietnamese Westlife Fans Community -:¦:-º.·´¯)</title>
+<script src="bogo.js" language="JavaScript" type="text/javascript"></script>
+ 
+<style type="text/css">
+	/* 
+ * Style Sheet for Invision Power Board 2.1.6
+ * Rip and Developed By: Longbongcongtu
+ * Email : longbongcongtu@gmail.com
+ * Copyright: February 2006 
+ *
+ */
+
+/* 
+ * ========================================l
+ * global element styles 
+ * ========================================
+ */
+
+html{
+	overflow-x: auto; /* fixes MSIE scrollbar bug DO NOT REMOVE, has no effect in Mozilla, or Opera */
+}
+
+body{ 
+	background: #FFF;
+	color: #222;
+	font-family: Verdana, Tahoma, Arial, Trebuchet MS, Sans-Serif, Georgia, Courier, Times New Roman, Serif;
+	font-size: 11px;
+	line-height: 135%;
+	margin: 0px;
+	padding: 0px; /* required for Opera to have 0 margin */
+	text-align: center; /* centers board in MSIE */
+}
+
+/* 
+ * ========================================
+ * X-Crystal styles 
+ * ========================================
+ */
+
+#crystal{ 
+	margin: 0 auto 0 auto; 
+	text-align: left;
+	width: 97%;
+	background: #fff;
+}
+
+
+#board-l
+{
+                background: url(style_images/crystal/cry/board_l.gif) repeat-y;
+	padding-left: 25px;
+} 
+
+#board-r {
+	background: url(style_images/crystal/cry/board_r.gif) repeat-y right;
+	padding-right: 25px;
+}
+
+#menu-l 
+{
+	height: 30px;
+	background: #23388b url(style_images/crystal/cry/menu-left.jpg) no-repeat;
+	padding-left: 152px;
+}
+
+#menu-r
+{
+	height: 30px;
+	background: url(style_images/crystal/cry/menu-right.jpg) no-repeat right;
+	padding-right: 152px;
+}
+
+#menu-c 
+{
+	text-align: center;
+	background: url(style_images/crystal/cry/menu-center.jpg) repeat-x;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+#c_l{
+	height: 31px;
+	background: url(style_images/crystal/cry/c_l.gif) no-repeat;
+                padding-left: 100px;             
+	
+}
+
+#news_l 
+{
+	height: 31px;
+	background: url(style_images/crystal/cry/news_l.gif) no-repeat;
+                padding-left: 12px;
+                
+	
+}
+
+#news_r
+{
+	height: 31px;
+	background: url(style_images/crystal/cry/news_r.gif) no-repeat right;
+                padding-right: 12px;
+                                	
+}
+
+#news_bg
+{
+	text-align: center;
+	background: url(style_images/crystal/cry/news_bg.gif) repeat-x;
+	height: 31px;
+                line-height: 31px;
+	margin: 0px;
+                img-align: center;
+}
+
+#xmaster 
+{
+	background: url(style_images/crystal/tile_sub.gif) repeat;
+                font-size: 10px;
+	font-weight: bold; 
+                color: #8695BE;
+	line-height: 35px;
+	text-align: center;                              
+}
+
+div.xitin-box {
+	border: 2px solid #c2c6cf;
+	padding: 10px;
+	background: #f7f9fa;
+}
+
+table.xitin-box {
+	border-collapse: collapse;
+	background: #f7f9fa;
+	border: 0;
+	width: 100%;
+}
+
+td.xitin-box-left {
+	background: url(style_images/crystal/cry/xbox-left.gif) repeat-y left;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-top {
+	background: url(style_images/crystal/cry/xbox-top.gif) repeat-x top;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-right {
+	background: url(style_images/crystal/cry/xbox-right.gif) repeat-y right;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-bottom {
+	background: url(style_images/crystal/cry/xbox-bottom.gif) repeat-x bottom;
+                font-size: 8px;	
+	color: #999;
+                font-weight: bold;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+td.xitin-box-content {
+	margin: 0;
+	padding: 4px !important;
+	border: 0;
+}
+
+td.xitin-box-left-top-corner {
+	width: 16px;
+	height: 16px;
+	background: url(style_images/crystal/cry/xbox-left-top.gif) no-repeat left top;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-right-top-corner {
+	width: 16px;
+	height: 16px;
+	background: url(style_images/crystal/cry/xbox-right-top.gif) no-repeat left top;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-left-bottom {
+	width: 16px;
+	height: 16px;
+	background: url(style_images/crystal/cry/xbox-left-bottom.gif) no-repeat left top;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+td.xitin-box-right-bottom {
+	width: 16px;
+	height: 16px;
+	background: url(style_images/crystal/cry/xbox-right-bottom.gif) no-repeat left top;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.xitin-box-title,
+.xitin-box-titlecollapse{
+	background: transparent !important;
+	border: 0px solid #FFF;
+	color: #3c4e7b; 
+	font-size: 12px;
+	font-weight: bold; 
+                margin: -3px auto 5px auto;
+		
+}
+
+.xitin-box-title td {
+	color: #FFF; 
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.xitin-box-title collapse{
+	border: 1px solid #FFF;
+}
+
+.xitin-box-title p,
+.xitin-box-titlecollapse p,
+.formsubtitle p {
+                background: transparent !important;
+	border: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.xitin-box-title p.expand,
+.xitin-box-title p.goto,
+.xitin-box-titlecollapse p.expand,
+.formsubtitle p.members{
+	float: right;
+	width: auto !important;
+}
+
+.xitin-box-title a:link, 
+.xitin-box-title a:visited,
+.xitin-box-titlecollapse a:link, 
+.xitin-box-titlecollapse a:visited{ 
+                margin: -3px auto 5px auto;
+	background: transparent;
+	color: #384b75;
+	text-decoration: none; 
+}
+
+.xitin-box-title a:hover, 
+.xitin-box-title a:active,
+.xitin-box-titlecollapse a:hover, 
+.xitin-box-titlecollapse a:active{ 
+                margin: -3px auto 5px auto;
+	background: transparent;
+	color: #FF5550;
+                text-decoration: none; 
+}
+
+
+.butt{
+	  background: transparent; 
+                  border: 0px solid #4C77B6;
+                  margin: 0;
+                  padding: 0;
+}
+
+.xborder
+{
+	background: #FFF; 
+	border: 3px solid #bdbcdb;
+	padding: 0px; 
+	margin: 0px; 
+}
+
+.mem_top{
+                background: #FAFCFE;
+                border: #e4e8f3 1px solid;
+                margin: 5px;
+	padding: 8px 0 8px 0px;
+}
+
+
+
+.avatar{
+                background: transparent url(style_images/crystal/cry/avatar.gif);
+	height: 185px;
+                width: 175px;
+               
+}
+
+.poll
+{ 
+	background: transparent url(style_images/crystal/tile_sub.gif);
+                color: #3A4F6C; 
+	font-size: 10px;
+	letter-spacing: 1px;
+	margin: 0; 
+	padding: 5px; 
+}
+
+.post_bg{
+                background: #FFF url(style_images/crystal/post_bg.gif) no-repeat bottom left;
+	border: 1px solid #ADBCDB;
+	color: #222;
+	font-family: Verdana, Helvetica, Sans-Serif;
+	font-size: 12px;               
+	padding-top: 10px;
+                padding-bottom: 10px;
+                vertical-align: middle;
+}
+
+.bordermenu
+{ 
+	background: #FAFCFE; 
+	border: 2px solid #BDBCDB;
+	padding: 1px; 
+	margin: 0px; 
+}
+
+.redirectfoot{
+	background: #E3E7F4;
+	border-top: 1px solid #B8BDDA;
+	text-align: center;
+                font-size: 13px;
+                padding: 5px;
+	text-decoration: underline;
+}
+
+.redirectcen{
+	background: #FFF;
+	border: 0px solid #B8BDDA;
+	text-align: left;
+                font-size: 12px;
+                padding: 5px;	
+}
+
+.sub 
+{
+	background: transparent; 
+                border: 0px solid #bdbcdb;
+                font-size: 12px;
+	font-weight: bold;               
+                color: #1554FF;	
+	text-align: left; 
+                padding: 0px 0px 5px 0px;
+	margin: 0px;                              
+}
+
+/* 
+ * ========================================
+ * Set up IPB table
+ * ========================================
+ */
+ 
+.ipbtable { width:100%; }
+
+table.ipbtable,
+tr.ipbtable,
+td.ipbtable
+{ /* required for text in tables, because tables do not inherit from body */
+	background: transparent;
+	color: #222;
+	font-size: 11px;
+	line-height: 135%;
+}
+
+.ipbtable td,
+.divpad{ /* gives all tables faux cellpadding of 5px */
+	padding: 5px;
+}
+
+td.nopad{ /* allows some tables to have no padding on the td */
+	padding: 0;
+}
+
+
+
+form{
+	display: inline;
+	margin: 0; /* removes mystery form tag gapping */
+	padding: 0; /* removes mystery form tag gapping */
+}
+
+img{
+	border: 0; /* makes sure linked images do not have a border */
+	vertical-align: middle;
+}
+
+/* 
+ * ========================================
+ * global hyperlink styles 
+ * ========================================
+ */
+
+a:link,
+a:visited,
+a:active{
+	background: transparent;
+	color: #062A85;
+             text-decoration: none;	
+}
+
+a:hover{
+	background: transparent;
+	color: #F5074A; 
+             text-decoration: underline;            
+}
+
+/* 
+ * ========================================
+ * Main wrapper, this controls the overall width of the board in you browser view window. 
+ * ========================================
+ */
+
+#ipbwrapper{ 
+	margin: 0 auto 0 auto; /* centers the box, no matter the overall width, also applies a 20px gap at the top and bottom of the board */
+	text-align: left; /* re_aligns text to left second part of two part MSIE centering workaround */
+	/* EDIT THIS TO CHANGE THE WIDTH OF THE BOARD -> 750px is a common fixed resolution size */
+	width: 100%;
+	background: #fff;
+}
+
+/* 
+ * ========================================
+ * styles for pagination links 
+ * ========================================
+ */
+ 
+
+.pagelink,
+.pagelinklast,
+.pagecurrent,
+.minipagelink,
+.minipagelinklast{
+	background: #F7F9FA;
+	border: 1px solid #C2C6CF;
+	padding: 1px 3px 1px 3px;
+}
+
+.pagelinklast,
+.minipagelinklast{
+	background: #E8EFF2;
+}
+
+
+.pagecurrent{
+	background: #FFE9A5;
+}
+
+.minipagelink,
+.minipagelinklast{
+	border: 1px solid #C2C6CF;
+	font-size: 10px;
+	margin: 0 1px 0 0;
+}
+
+.pagelink a:active,
+.pagelink a:visited,
+.pagelink a:link,
+.pagelinklast a:active,
+.pagelinklast a:visited,
+.pagelinklast a:link,
+.pagecurrent a:active,
+.pagecurrent a:visited,
+.pagecurrent a:link,
+.minipagelink a:active,
+.minipagelink a:visited,
+.minipagelink a:link,
+.minipagelinklast a:active,
+.minipagelinklast a:visited,
+.minipagelinklast a:link{
+	text-decoration: none;
+}
+
+/* fake button effect for some links */
+.fauxbutton{
+	background: #BFCDE0;
+	border: 1px solid #072A66;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 4px;
+}
+
+.fauxbutton a:link,
+.fauxbutton a:visited,
+.fauxbutton a:active{
+	color: #222 !important;
+	text-decoration: none;
+}
+
+.forumdesc,
+.forumdesc a:link,
+.forumdesc a:active,
+.forumdesc a:visited{ 
+	background: transparent;
+	font-size: 11px;
+	color: #3C4E7B;
+	line-height: 135%;
+	margin: 2px 0 0 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+
+/* =================================================================================== */
+/* =================================================================================== */
+/* =================================================================================== */
+
+.searchlite {
+	background-color:yellow;
+	font-weight:bold;
+	color: red;
+}
+
+.activeusers{
+	background: #FFF;
+	border: 1px solid #072A66;
+	color: #000;
+	margin: 0px;
+	padding: 1px;
+}
+
+.activeuserposting a:link,
+.activeuserposting a:visited,
+.activeuserposting a:active,
+.activeuserposting
+{
+	font-style:italic;
+	text-decoration: none;
+	border-bottom:1px dotted black;
+}
+
+fieldset.search{ 
+	line-height: 150%;
+	padding: 6px; 
+}
+
+label{ 
+	cursor: pointer; 
+}
+
+img.attach{ 
+	background: #808080 url(style_images/crystal/click2enlarge.gif) no-repeat top right;
+	border: 1px solid #808080;
+	margin: 0 2px 0 0;
+	padding: 11px 2px 2px 2px;
+}
+
+.thumbwrap,
+.thumbwrapp,
+.fullimagewrap{
+	border: 1px solid #072A66;
+	margin: 2px;
+}
+
+.thumbwrapp{
+	border: 2px solid #660707;
+}
+
+.fullimagewrap{
+	background: #EEEFF4;
+	text-align: center;
+	margin: 5px 0 5px 0;
+	padding: 5px;
+}
+
+.thumbwrap h4,
+.thumbwrapp h4{	
+	background: #DDE6F2;
+	border: 0 !important;
+	border-bottom: 1px solid #5176B5 !important;
+	color: #5176B5; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.thumbwrap p,
+.thumbwrapp p{
+	background: #EEEFF4 !important;
+	border: 0 !important;
+	border-top: 1px solid #5176B5 !important;
+	margin: 0 !important;
+	padding: 5px !important;
+	text-align: left;
+}
+
+.thumbwrap p.alt,
+.thumbwrapp p.alt{
+	background: #DFE6EF !important;
+	margin: 0 !important;
+	padding: 5px !important;
+	text-align: left;
+}
+
+.thumbwrapp p.pin{
+	background: #EFDFDF !important;
+	text-align: center !important;
+}
+	
+.thumbwrap img.galattach,
+.thumbwrapp img.galattach{
+	background: #FFF url(style_images/crystal/img_larger.gif) no-repeat bottom right;
+	border: 1px solid #072A66;
+	margin: 5px;
+	padding: 2px 2px 10px 2px;
+}
+
+li.helprow{ 
+	margin: 0 0 10px 0;
+	padding: 0; 
+}
+
+ul#help{ 
+	padding: 0 0 0 15px; 
+}
+
+.warngood,
+.warnbad{ 
+	color: #0B9500;
+	font-weight: bold;
+}
+
+.warnbad{ 
+	color: #DD0000;
+}
+
+#padandcenter{ 
+	margin: 0 auto 0 auto;
+	padding: 14px 0 14px 0;
+	text-align: center;
+}
+
+#profilename{ 
+	font-size: 28px; 
+	font-weight: bold; 
+}
+
+#photowrap{ 
+	padding: 6px; 
+}
+
+#phototitle{ 
+	border-bottom: 1px solid #000; 
+	font-size: 24px; 
+}
+
+#photoimg{ 
+	margin: 15px 0 0 0;
+	text-align: center; 
+} 
+
+#ucpmenu,
+#ucpcontent{ 
+	background: #EEEFF4;
+	border: 1px solid #BDBCDB;
+	line-height: 150%;
+}
+
+#ucpmenu p{ 
+	margin: 0; 
+	padding: 2px 5px 6px 9px;
+}
+
+#ucpmenu a:link, 
+#ucpmenu a:active, 
+#ucpmenu a:visited{ 
+	text-decoration: none; 
+}
+
+#ucpcontent{ 
+	width: auto;
+}
+
+#ucpcontent p{ 
+	margin: 0;
+	padding: 10px;
+}
+
+.activeuserstrip{ 
+	background: #E4E8F3;
+	padding: 6px;
+}
+
+/* Topic View elements */
+.signature{  
+	background: transparent;
+	color: #339; 
+	font-size: 10px;
+	line-height: 150%;
+}
+
+.postdetails{ 
+	font-size: 10px;
+	line-height:140%;
+}
+
+.postcolor{ 
+	font-size: 11px; 
+	line-height: 160%;
+}
+
+.postcolor a {
+	text-decoration: underline;
+}
+
+
+.normalname{ 
+	color: #003;
+	font-size: 12px; 
+	font-weight: bold; 
+}
+
+.normalname a:link, 
+.normalname a:visited, 
+.normalname a:active{ 
+	font-size: 12px;
+}
+
+.post1,
+.bg1{ 
+	background: #EEEFF4;
+}
+
+.post2,
+.bg3{ 
+	background: #EEEFF4;
+}
+
+.row2shaded,
+.post1shaded { background-color: #DEDBE4 }
+.row4shaded,
+.post2shaded { background-color: #E3DFE7 }
+
+.row1{ 
+	background: #EDEFF3; 
+}
+
+.row2{ 
+	background: #E8ECF7; 
+}
+
+.darkrow1{ 
+	background: #E4E8F3;
+	color: #3A4F6C; 
+}
+
+.darkrow3{ 
+	background: #D9DEEB; 
+	color: #3A4F6C; 
+}
+
+/* tableborders gives the white column / row lines effect */
+.plainborder,
+.tablefill,
+.tablepad{ 
+	background: #EEEFF4;
+	border: 1px solid #345487;
+}
+
+.tablefill,
+.tablepad{ 
+	padding: 6px;  
+}
+
+.tablepad{ 
+	border: 0 !important;
+}
+
+.wrapmini{ 
+	float: left;
+	line-height: 1.5em;
+	width: 25%;
+}
+
+.pagelinks{
+	float: left;
+	line-height: 1.2em;
+	width: 35%;
+}
+
+.desc{ 
+	font-size: 11px; 
+	color: #434951;
+}
+
+.lastaction
+{
+	font-size: 10px; 
+	color: #434951;
+}
+
+.edit{ 
+	font-size: 9px;
+}
+
+.thin{ 
+	border: 1px solid #FFF;
+	border-left: 0;
+	border-right: 0;
+	line-height: 150%;
+	margin: 2px 0 2px 0;
+	padding: 6px 0 6px 0;
+}
+
+.thins{ 
+	border: 1px solid #FFF;
+	border-left: 0;
+	border-right: 0;
+                border-bottom: 0;
+	line-height: 150%;
+	margin: 2px 0 2px 0;
+	padding: 6px 0 0px 0;
+}
+
+
+/* 
+ * ========================================
+ * calendar styles 
+ * ========================================
+ */
+	
+.calmonths{ 
+	background: #F0F5FA;
+	border: 1px solid #C2CFDF;
+	font-size: 18px; 
+	font-weight: bold; 
+	margin: 5px 0 5px 0;
+	padding: 8px;
+	text-align: center;
+}
+
+.weekday{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.calmonths a{
+	text-decoration: none;
+}
+
+.calday,
+.calweekday{ 
+	background: #DFE6EF;
+	color: #666;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0;
+	padding: 4px;
+	text-align: right;
+}
+
+.calweekday{
+	border-right: 1px solid #AAA;
+	color: #222;
+	font-size: 14px;
+	padding: 6px;
+	text-align: center;
+}
+
+.celltodayshaded,
+.celldateshaded,
+.cellblank,
+.celldate,
+.celltoday,
+.mcellblank,
+.mcelldate,
+.mcelltoday{
+	background: #EEEFF4; 
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+.celltodayshaded,
+.celldateshaded
+{
+	background: #E3DFE7;
+}
+
+.mcellblank,
+.mcelldate,
+.mcelltoday{
+	height: auto;
+}
+
+.cellblank,
+.mcellblank{
+	background: #C2CFDF;
+}
+
+.celltoday,
+.celltodayshaded,
+.mcelltoday{
+	border: 2px solid #8B0000;
+}
+
+.calranged
+{
+	border: 2px outset #C2CFDF;
+	background: #C2CFDF;
+	padding:4px;
+}
+
+.calitem
+{
+	border-bottom: 1px dotted #C2CFDF;
+	padding:4px;
+}
+
+/* 
+ * ========================================
+ * form styles 
+ * ========================================
+ */
+
+.input-warn,
+.input-green,
+input,
+textarea,
+select{
+	background: #FFF;
+	border: 1px solid #8695BE;
+	color: #000;
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 11px;
+	margin: 5px;
+	padding: 2px;
+	vertical-align: middle;
+}
+
+.input-warn,
+.input-warn-content
+{
+	border: 1px solid #C00;
+}
+
+.input-ok,
+.input-ok-content
+{
+	border: 1px solid #0C0;
+}
+
+.input-warn-content
+{
+	padding: 4px;
+	margin: 4px;
+	background-color: #FCC;
+}
+
+.input-ok-content
+{
+	padding: 4px;
+	margin: 4px;
+	background-color: #CFC;
+}
+
+
+.input-text
+{
+	color: #900;
+}
+
+select{
+	border: 0;
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+
+input.button{
+	margin: 0;
+	width: auto;
+}
+
+optgroup option{
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.codebuttons{ 
+	font-family: Verdana, Helvetica, Sans-Serif; 
+	font-size: 10px; 
+	vertical-align: middle;
+	margin:2px;
+}
+
+.textarea,
+.searchinput,
+.button,
+.gobutton{
+	background: #FFF;
+	border: 1px solid #8695BE;
+	color: #000;
+	font-family: Verdana, Helvetica, Sans-Serif;
+	font-size: 11px;
+	padding: 2px;
+	vertical-align: middle;
+}
+	
+.button{
+	background: #DFE6EF;
+}
+
+.gobutton{
+	background: transparent;
+	border: 0;
+	color: #072A66;
+	margin: 0;
+	vertical-align: middle;
+}
+
+.radiobutton,
+.checkbox,
+.helpbox { 
+                background: transparent;
+	border: 0px solid #97DA19;
+	vertical-align: middle;
+}
+
+/* 
+ * class.formtable 
+ *
+ * used for tabled forms 
+ * technically tables should not be used for form display 
+ * but, in the case of IPB a table is easier to work with
+ * for the average webmaster, who has little to no CSS knowledge.
+ *
+ */
+
+.formtable{
+	background: transparent;
+}
+
+.formtable td,
+.pformleft,
+.pformleftw,
+.pformright{
+	background:#EEEFF4;
+	border: 1px solid #C2CFDF;
+	border-bottom: 0;
+	border-left: 0;
+	font-weight: bold;
+	margin: 1px 0 0 0;
+	padding: 6px;
+	width: 25%;
+} 
+
+.formtable td.wider,
+.pformleftw,
+.pformright{
+	width: 40%;
+}
+
+.formtable td.formright,
+.pformright{
+	border-right: 0px;
+	font-weight: normal;
+	width: auto;
+} 
+
+.formtable td.formtitle,
+.formsubtitle{
+	background: #e0e6f7;
+	border: 1px solid #9FB9D4; 
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	font-weight: normal;
+}
+
+.formsubtitle{ 
+	border: 0;
+	color: #3A4F6C;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.formtable td.formstrip{
+	background: #DDE8F2;
+	border: 1px solid #9FB9D4;
+	border-left: 0;
+	border-right: 0;
+	font-weight: normal;
+}
+
+/* 
+ * ========================================
+ * new style quote and code wrappers MATT's DESIGN 
+ * ========================================
+ */
+
+.quotetop{
+	background: #E4EAF2 url(style_images/crystal/css_img_quote.gif) no-repeat right;
+	border: 1px dotted #8793C7;
+	border-bottom: 0;
+	border-left: 5px solid #8793C7;
+	color: #003366;
+	font-weight: bold;
+	font-size: 10px;
+	margin: 8px auto 0 auto;
+	padding: 3px;
+}
+
+.quotemain{
+	background: #FAFCFE;
+	border: 1px dotted #8793C7;
+	border-left: 5px solid #8793C7;
+	border-top: 0;
+	color: #465584;
+	padding: 4px;
+	margin: 0 auto 8px auto;
+}
+
+.codetop,
+.sqltop,
+.htmltop{
+	background: #FDDBCC url(style_images/crystal/css_img_code.gif) no-repeat right;
+	border: 1px dotted #E1A074;
+	border-bottom: 0;
+	border-left: 5px solid #E1A074;
+	color: #921313;
+	font-weight: bold;
+	font-size: 10px;
+	margin: 8px auto 0 auto;
+	padding: 3px;
+}
+.codemain,
+.sqlmain,
+.htmlmain{
+	background: #FAFCFE;
+	border: 1px dotted #E1A074;
+	border-left: 5px solid #E1A074;
+	border-top: 0;
+	color: #AD408D;
+	padding: 4px;
+	font-family: Courier, Courier New, Verdana, Arial;
+	margin: 0 auto 8px auto;
+}
+
+/* 
+ * ========================================
+ * old school quote and code styles - backwards compatibility 
+ * ========================================
+ */
+
+#QUOTE,
+#CODE{  
+	background: #FAFCFE; 
+	border: 1px solid #000; 
+	color: #465584; 
+	font-family: Verdana, Arial; 
+	font-size: 11px; 
+	padding: 2px; 
+	white-space: normal;
+}
+
+#CODE{ 
+	font-family: Courier, Courier New, Verdana, Arial;
+}
+
+/* 
+ * ========================================
+ * All New Styles 
+ * ========================================
+ */
+.cleared{
+	clear: both;
+}
+
+.borderwrap,
+.borderwrapm{ /* this will affect the outlining border of all the tables and boxes through-out the skin. */
+	background: #FFF; 
+	border: 1px solid #BDBCDB;
+	padding: 0px; 
+	margin: 0px; 
+}
+
+.borderwrapm{
+	margin: 5px;
+}
+
+.borderwrap h3,
+.maintitle,
+.maintitlecollapse{
+	background: #e4e8f3;
+	border: 1px solid #FFF;
+                border-right: 0px solid #FFF;
+	border-bottom: 1px solid #BBC0DD;
+	color: #384b75; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0px;
+	padding: 8px;
+}
+
+.maintitle td {
+	color: #384b75; 
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.maintitlecollapse{
+	border: 1px solid #FFF;
+}
+
+.maintitle p,
+.maintitlecollapse p,
+.formsubtitle p {
+	background: transparent !important;
+	border: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.rounded-box p.expand,
+.rounded-box-content p.expand,
+.maintitle p.expand,
+.maintitle p.goto,
+.maintitlecollapse p.expand,
+.formsubtitle p.members{
+	float: right;
+	width: auto !important;
+}
+
+.maintitle a:link, 
+.maintitle a:visited,
+.maintitlecollapse a:link, 
+.maintitlecollapse a:visited{ 
+	background: transparent;
+	color: #384b75;
+	text-decoration: none; 
+}
+
+.maintitle a:hover, 
+.maintitle a:active,
+.maintitlecollapse a:hover, 
+.maintitlecollapse a:active{ 
+	background: transparent;
+	color: #F1F1F1;
+}
+
+table th,
+.borderwrap table th,
+.subtitle,
+.subtitlediv,
+.postlinksbar{ 
+	background: #E4E8F3;
+	border-bottom: 1px solid #BBC0DD;
+	color: #3A4F6C; 
+	font-size: 10px;
+	font-weight: bold; 
+	letter-spacing: 1px;
+	margin: 0; 
+	padding: 5px; 
+}
+
+.subtitlediv{
+	border: 1px solid #FFF;
+	border-bottom: 1px solid #5176B5;
+	text-align: right;
+}
+
+.borderwrap table th a:link,
+.subtitle a:link,
+.subtitlediv a:link,
+.borderwrap table th a:visited,
+.subtitle a:visited, 
+.subtitlediv a:visited, 
+.borderwrap table th a:active,
+.subtitle a:active,
+.subtitlediv a:active,
+.borderwrap table th a:hover,
+.subtitle a:hover,
+.subtitlediv a:hover{ 
+	background: transparent;
+	color: #3A4F6C;
+	text-decoration: none; 
+}
+
+.borderwrap h4{
+	background: #DDE6F2;
+	border: 1px solid #FFF;
+	border-bottom: 1px solid #5176B5;
+	border-top: 1px solid #5176B5;
+	color: #5176B5; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.borderwrap p{
+	background: #F9F9F9;
+	border: 1px solid #CCC;
+	margin: 5px;
+	padding: 10px;
+	text-align: left;
+}
+
+div.formbuttonrow,
+td.formbuttonrow,
+.borderwrap p.formbuttonrow,
+.borderwrap p.formbuttonrow1{
+	margin: 0px !important;
+	padding: 5px !important;
+	text-align: center;
+	background: #D9DEEB;
+                border-top: 1px solid #BDBCDB;
+}
+
+td.formbuttonrow{
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+}
+
+.borderwrap p.formbuttonrow1{
+	background: #F9F9F9 !important;
+	border: 0;
+	border-top: 1px solid #CCC;
+}
+
+.bar,
+.barb,
+.barc{
+	background: #DFE6EF;
+	border: 1px solid #FFF;
+}
+
+.barc{
+	border-bottom: 0;
+}
+
+.bar p,
+.barb p,
+.barc p{
+	background: transparent;
+	border: 0;
+	color: #222;
+	font-size: 11px;
+	margin: 0;
+	padding: 5px;
+	text-align: left;
+}
+
+.barb p{
+	text-align: right;
+}
+
+.bar p.over,
+.bar p.overs,
+.barc p.over,
+.barc p.overs{
+	float: right;
+}
+
+.barb p.over,
+.barb p.overs{
+	float: left;
+}
+
+.bar p.overs,
+.barb p.overs,
+.barc p.overs{
+	position: relative;
+	top: 5px;
+}
+
+.catend{
+	background: #8793C7;
+	color: #000;
+	font-size: 1px;
+	height: 5px;
+}
+
+.newslink{
+	background: transparent;
+	border: 0;
+	margin: 0;
+	width: 100%;
+}
+
+.newslink td{
+	color: #222;
+	font-size: 10px;
+	padding: 5px 20px 2px 5px;
+}
+
+.newslink span{
+	background: transparent;
+	color: #072A66;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.newslink input{
+	background: #FFF;
+	border: 1px solid #999;
+	color: #072A66;
+	font-size: 10px;
+	padding: 3px;
+	vertical-align: middle;
+	width: auto;
+}
+
+.newslink input.button{
+	background: transparent;
+	border: 0;
+	color: #072A66;
+	vertical-align: middle;
+}
+
+.fieldwrap{
+	background: #F9F9F9;
+	border: 1px solid #CCC;
+	border-top: 0;
+	margin: 5px;
+	padding: 0;
+	text-align: left;
+}
+
+.fieldwrap h4{
+	background: #EEE;
+	border: 1px solid #CCC;
+	border-left: 0;
+	border-right: 0;
+	color: #444; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.errorwrap {
+	background: #EAEDF5;
+	border: 1px solid #C2C6CF;
+	border-top: 0;
+	margin: 15px 5px 5px 5px;
+	padding: 0;
+}
+
+
+.errorwrap h4 {
+	background: #E4E8F3;
+	border: 1px solid #C2C6CF;
+	border-left: 0;
+	border-right: 0;
+	color: #CC0000; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.errorwrap p {
+	background: transparent;
+	border: 0;
+	color: #CC0000;
+	margin: 0;
+	padding: 8px;
+}
+
+
+.ruleswrap{
+	background: #F2D9AF;
+	border: 1px solid #CC0000;
+	color: #B75545; 
+	margin: 5px 0 5px 0;
+	padding: 5px;
+}
+
+#redirectwrap{
+	background: #FFF;
+	border: 0px solid #B8BDDA;
+	margin: 200px auto 0 auto;
+	text-align: left;
+	width: 500px;
+}
+
+#redirectwrap h4{
+	background: #e4e8f3;
+	border-bottom: 0px solid #B8BDDA;
+	color: #3A4F6C;
+	font-size: 12px;
+	margin: 0;
+	padding: 5px;
+}
+
+#redirectwrap p{
+	margin: 0;
+	padding: 5px;
+}
+
+#redirectwrap p.redirectfoot{
+	background: #E3E7F4;
+	border-top: 1px solid #B8BDDA;
+	text-align: center;
+                font-size: 12px;
+                padding: 5px;
+	text-decoration: underline;
+}
+
+
+#gfooter{
+	background: transparent !important;
+	margin: 5px 0 5px 0;
+	padding: 0;
+	width: 100%;
+}
+
+#gfooter td{
+	color: #000;
+	font-size: 10px;
+	padding: 4px;
+}
+
+#gfooter a:link,
+#gfooter a:visited{
+	color: #000;
+}
+
+#logo_l{ 
+	background: url(style_images/crystal/cry/logo_left.gif) no-repeat left;
+	height: 130px;
+	margin: 0;
+	padding: 0;
+}
+
+#logo_bg{ 
+	background: url(style_images/crystal/cry/logo_bg.gif);
+	height: 130px;
+	margin: 0;
+	padding: 0;
+}
+
+#logo_r{
+	background: url(style_images/crystal/cry/logo_right.gif) no-repeat right;
+	height: 130px;
+	margin: 0;
+	padding: 0;
+}
+
+#submenu{ 
+	text-align: center;
+	background: url(style_images/crystal/cry/menu-center.jpg) repeat-x;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+#submenu li {
+	display: inline;
+	background: url(style_images/crystal/cry/menu-separator.gif) no-repeat center left;
+	line-height: 30px;
+	padding-left: 10px;
+	margin-right: 5px;
+}
+
+#userlinks,
+#userlinksguest{ 
+	background: url(style_images/crystal/cry/mem-menu.gif);
+	margin:0 0 5px 0;
+	height: 28px;
+}
+
+#submenu p,
+#userlinks p,
+#userlinksguest p{
+	background: transparent !important;
+	border: 0 !important;
+	font-size: 10px;
+	font-weight: bold; 
+	letter-spacing: 1px;
+	margin: 0 !important;
+	padding: 0 1em 0 1em;
+	line-height: 28px;
+	text-align: right;
+}
+
+#userlinks a,
+#userlinksguest a {
+	color: #213d7e;
+}
+
+#userlinks p,
+#userlinksguest p{
+	font-weight: normal;
+	letter-spacing: 0;
+	color: #213d7e;
+}
+
+#submenu p.home,
+#userlinks p.home,
+#userlinksguest p.home{
+	float: left;
+}
+
+#userlinksguest p.pcen{
+	text-align: center;
+}
+
+#submenu a:link, 
+#submenu  a:visited{ 
+	color:#FFF;
+	text-decoration:none;
+	font-size: 10pt;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight:bold; 
+}
+
+#submenu a:hover, 
+#submenu a:active{
+	background: transparent; 
+	color: #FF4400; 
+}
+
+#navstrip{ 
+	background: transparent;
+	color: #999;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	padding: 14px 0px 8px 0px; 
+}
+
+#navstrip a:link, 
+#navstrip  a:visited{ 
+	background: transparent; 
+	color: #222; 
+	text-decoration: none;
+}
+
+#navstrip a:hover, 
+#navstrip a:active{
+	background: transparent; 
+	color: #5176B5; 
+}
+
+.toplinks{
+	background: transparent;
+	color: #000;
+	margin: 8px 0 0 0;
+	text-align: right;
+}
+
+.toplinks span{
+	border-bottom: 0;
+	color: #000;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.copyright{ 
+	background: #374788;
+	font-size: 9px; 
+	margin: 0px;
+	padding: 6px;
+                font-weight: bold;
+	color: #FFF;
+}
+
+.copyright a { 
+	font-size: 9px; 
+	color: #FFF;
+	font-weight: bold;
+}
+/* 
+ * ========================================
+ * print page styles 
+ * ========================================
+ */
+
+#print{
+	margin: 20px auto 20px auto;
+	padding: 0;
+	text-align: left;
+	width: 85%;
+}
+
+#print h1,
+#print h2,
+#print h3,
+#print h4,
+#print p{
+	color: #036;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+	padding: 8px;
+}
+
+#print h2,
+#print h3,
+#print p{
+	border-bottom: 1px solid #999;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#print h3{
+	background: #F5F5F5;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+}
+
+#print h4{
+	background: #F9F9F9;
+	font-size: 11px;
+}
+
+#print p{
+	margin: 0 0 5px 0;
+	padding: 10px;
+}
+
+#print p.printcopy{
+	border: 0;
+	color: #000;
+	text-align: center;
+}
+
+/* ============================================================== */
+/* RTE STYLES
+/* ============================================================== */
+
+.rteimage {
+	/*background: #D3D3D3;*/
+	/*border: 1px outset transparent*/;
+	cursor: pointer;
+	cursor: hand;
+	padding:1px;
+}
+
+.rteImageRaised {
+	/*background: #D3D3D3;*/
+	border: 1px outset;
+	cursor: pointer;
+	cursor: hand;
+	padding:0px;
+}
+
+.rteImageLowered {
+	/*background: #D3D3D3;*/
+	border: 1px inset;
+	cursor: pointer;
+	cursor: hand;
+	padding:0px;
+}
+
+.rteimage:hover {
+	background: #EBEBEB;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.rteVertSep {
+	margin: 0 4px 0 4px;
+}
+
+.rteBack {
+	background: #D3D3D3;
+	border: 1px outset;
+	letter-spacing: 0;
+	padding: 2px;
+}
+
+/* used in ips_rte.js - do not remove */
+.rtebottombutton
+{
+	font-size:10px;
+	border:1px solid #ADBCDB;
+	border-top:0px;
+	padding:3px;
+	margin:0px;
+	background-color: transparent;
+}
+
+/* used in ips_rte.js - do not remove */
+.rtebottombuttonon
+{
+	font-size:10px;
+	border:1px solid #ADBCDB;
+	border-top:0px;
+	padding:3px;
+	margin:0px;
+	background-color: transparent;
+}
+
+.rtebuttonbar1 {
+	/*background: #D3D3D3;*/
+	background-image: url(style_images/crystal/folder_rte_images/rte_tile.gif);
+	border: 1px solid #ADBCDB;
+	border-bottom:0px;
+	letter-spacing: 0;
+	padding: 2px;
+	height:26px;
+}
+
+.rtebuttonbar2 {
+	/*background: #D3D3D3;*/
+	background-image: url(style_images/crystal/folder_rte_images/rte_tile.gif);
+	border: 1px solid #ADBCDB;
+	border-top:1px solid #ADBCDB;
+	letter-spacing: 0;
+	padding: 2px;
+	height:26px;
+}
+
+.rtebuttonbar1 tbody tr td,
+.rtebuttonbar1 tr td,
+.rtebuttonbar2 tbody tr td,
+.rtebuttonbar2 tr td,
+.rteBack tbody tr td,
+.rteBack tr td
+{
+	/*background: #D3D3D3;*/
+	padding: 0;
+}
+
+.rteDiv {
+	display: block;
+	position: relative;
+	padding:0px;
+	margin:0px;
+}
+
+.rteiframe
+{
+                border-left:1px solid #ADBCDB;
+	border-right:1px solid #ADBCDB;
+	background-color:#FAFCFE;
+}
+
+.rteselectbox
+{
+	font-size:11px;
+}
+
+
+.dny-edit-title
+{
+	border:0px;
+	padding:3px;
+	margin:0px;
+	background: #D9DEEB; 
+	color: #3A4F6C; 
+}
+
+
+/* ======================================== */
+/* TABS
+/* ======================================== */
+
+.tabon
+{
+	border-top:1px solid #999;
+	border-left:1px solid #999;
+	border-right:1px solid #999;
+	background-color:#FFF;
+	padding:8px;
+	padding-bottom:9px;
+	font-size:10px;
+	float:left;
+	width:auto;
+	margin-top:3px;
+}
+
+.taboff
+{
+	border-top: 1px solid #777;
+	border-left: 1px solid #777;
+	border-right: 1px solid #777;
+	background-color: #B5C3D9;
+	color: #333;
+	padding: 8px;
+	font-size:10px;
+	float: left;
+	width: auto;
+	margin-top:3px;
+}
+
+.tabon a:link, 
+.tabon a:visited, 
+.tabon a:active
+{
+	text-decoration:none;
+	color: #000;
+}
+
+.taboff a:link, 
+.taboff a:visited, 
+.taboff a:active
+{
+	text-decoration:none;
+	color: #333;
+}
+
+.mya-back
+{
+	background: #072A66;
+	margin:1px;
+}
+
+.mya-content
+{
+	background: #FFF;
+	padding:8px;
+	margin:1px;
+	border: 1px solid #777;
+}
+
+/* -------------------------------- */
+/* Create PM box defaults           */
+/* -------------------------------- */
+
+.iframeshim
+{
+	position:absolute;
+	display:none;
+	background: #FFF;
+	filter:alpha(opacity=0);
+	border:0px;
+	width:auto;
+	height:auto;
+}
+
+
+
+/* -------------------------------- */
+/* Experimental                     */
+/* -------------------------------- */
+
+.popupmenu
+{
+   background: #EEEFF4;
+   border: 1px solid #bdbcdb;
+   text-align:left;
+   font-size:10px;
+   white-space:nowrap;
+   /*padding:3px 5px 3px 3px;*/
+   /*width:300px;*/
+}
+
+.popupmenu-item
+{
+	padding: 5px;
+	/*margin-top:4px;*/
+	white-space: nowrap;
+	border-bottom: 1px solid #A1B0D0;
+}
+
+.popupmenu-item-last
+{
+	padding: 5px;
+	/*margin-top:4px;*/
+	white-space: nowrap;
+}
+
+.popmenubutton
+{
+	width:120px;
+	white-space:nowrap;
+	background-color: #E4E8F3;
+	border:1px solid #A1B0D0;
+	color: #495786;
+	font-weight:bold;
+	float:right;
+	height:14px;
+	text-align:center;
+	margin:0px;
+	font-size:10px;
+	padding:3px;
+}
+
+
+.popmenubutton a:link, 
+.popmenubutton a:visited,
+.popupmenu-item a:link, 
+.popupmenu-item a:visited,
+.popupmenu-item-last a:link, 
+.popupmenu-item-last a:visited
+{ 
+	color: #3A4F6C; 
+	text-decoration: none;
+}
+
+.popmenubutton a:hover, 
+.popupmenu-item a:hover, 
+.popupmenu-item-last a:hover
+{ 
+	color: #FF4400; 
+	text-decoration: none;
+}
+
+.popupmenu-category
+{ 
+
+                background: #D9DEEB;
+	border: 1px solid #FFF;
+                border-right: 0px solid #FFF;
+	border-bottom: 1px solid #BBC0DD;
+	color: #384b75;
+	font-size: 10px;
+	font-weight: bold; 
+	letter-spacing: 1px;
+	margin: 0; 
+	padding: 5px; 
+}
+</style> 
+ 
+<link rel="stylesheet" href="resize/lightbox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="resize/lightbox.js"></script>
+</head> 
+<body>
+<div id="board-l">
+<div id="board-r">
+<div id="ipbwrapper">
+<!--ipb.javascript.start-->
+<script type="text/javascript">
+ //<![CDATA[
+ var ipb_var_st            = "";
+ var ipb_lang_tpl_q1       = "Please enter a page number to jump to between 1 and";
+ var ipb_var_s             = "a73d6d457e3129f75ce9696dd7501bd7";
+ var ipb_var_phpext        = "php";
+ var ipb_var_base_url      = "http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&";
+ var ipb_var_image_url     = "style_images/crystal";
+ var ipb_input_f           = "";
+ var ipb_input_t           = "";
+ var ipb_input_p           = "";
+ var ipb_var_cookieid      = "";
+ var ipb_var_cookie_domain = "";
+ var ipb_var_cookie_path   = "/";
+ var ipb_md5_check         = "880ea6a14ea49e853634fbdc5015a024";
+ var ipb_new_msgs          = 0;
+ var use_enhanced_js       = 1;
+ var use_charset       = "utf-8";
+var ipb_myass_chars_lang = "Not enough characters";
+ //]]>
+</script>
+<script type="text/javascript" src='jscripts/ipb_global.js'></script>
+<script type="text/javascript" src='jscripts/ips_menu.js'></script>
+<script type="text/javascript" src='style_images/crystal/folder_js_skin/ips_menu_html.js'></script>
+<!--ipb.javascript.end-->
+<!--ipb.logo.start-->
+<div id="logo_bg">
+<div id="logo_l">
+<div id="logo_r">
+</div></div></div>
+<!--ipb.logo.end-->
+
+	<div id="menu-l">
+                   <div id="menu-r">
+                 <ul id="submenu">
+		<p class="home"><!--ipb.leftlinks.start--><li><a href=""></a></li><!--IBF.RULES--><!--ipb.leftlinks.end--></p>
+		<p><!--ipb.rightlinks.start-->
+<!--//<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;automodule=blog">Blogs</a><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=module&module=gallery">Gallery</a><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=downloads"></a><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=affiliates">Affiliates</a>-->     
+<li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=uportal">Trang chủ</a></li>
+<li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=idx">Diễn đàn</a></li>
+<li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=module&module=gallery">Gallery</a></li>
+<li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;s=2b63245bfd7d05abb553b5631f78ad2e&act=downloads">Download</a></li>
+
+
+	<li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Help">Help</a></li>
+
+                <li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Search&amp;f=">Search</a></li>
+                <li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Members">Members</a></li>
+                <li><a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=calendar">Calendar</a></l>
+                
+
+                 <li>&nbsp;</li>
+		<!--ipb.rightlinks.end--></p>
+                  </ul>
+	    </div>
+	</div>
+<div id="xmaster">&nbsp;</div><script type="text/javascript" src='jscripts/ips_xmlhttprequest.js'></script>
+<script type="text/javascript" src='jscripts/ipb_global_xmlenhanced.js'></script>
+<script type="text/javascript" src='jscripts/dom-drag.js'></script>
+<div id='get-myassistant' style='display:none;width:400px;text-align:left;'>
+<div class="borderwrap">
+ <div class='maintitle' id='myass-drag' title='Click and hold to drag this window'>
+  <div style='float:right'><a href='#' onclick='document.getElementById("get-myassistant").style.display="none"'>[X]</a></div>
+  <div>My Assistant</div>
+ </div>
+ <div id='myass-content' style='overflow-x:auto;'></div>
+ </div>
+</div>
+<div id='loading-layer' style='display:none;width:200px;height:50px;background:#FFF;padding:10px;text-align:center;border:1px solid #000'><div style='font-weight:bold' id='loading-layer-text'>Loading. Please Wait...</div><br /><img src='style_images/crystal/loading.gif'  border='0' /></div><!-- / End board header -->
+<div id="crystal">
+<div class="xborder">
+<table width="100%" cellpadding="0" cellspacing="1">
+  <tr>
+<td style="padding: 0px" width="65%" style="background:#E8ECF7;">
+<div id="navstrip">&nbsp;&nbsp;<img src='style_images/crystal/nav.gif' border='0'>&nbsp;<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=idx'>( ¯`·.º-:¦:- Vietnamese Westlife Fans Community -:¦:-º.·´¯)</a><br />
+&nbsp;&nbsp;<img src='style_images/crystal/to_post_no_children.gif' border='0'>&nbsp;Trang chủ</div>
+
+</td>
+<td style="padding: 0px" width="35%" style="background:#E8ECF7;">
+<table width="100%" border="0" align="center" cellpadding="5" cellspacing="5">
+<tr>
+ <td align="middle"> 
+<b>Welcome Guest</b><br>
+<form action="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Login&amp;CODE=01&amp;CookieDate=1" method="post">
+	<input class="mem_bar" type="text" size="15" name="UserName" onfocus="this.value=''" value="" /><input class="mem_bar" type="password" size="15" name="PassWord" onfocus="this.value=''" value="ibfrules" />
+
+<table width="100%" height="15px" border="0" valign="middle" cellpadding="0" cellspacing="0">
+<tr>
+ <td width="50%" height="15px" align="center"><input class="butt" type='image' src="style_images/crystal/cry/login.gif" alt="Login"></td>
+<td width="50%" height="15px" align="center"><a  href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Reg&amp;CODE=00"><img src="style_images/crystal/cry/register.gif" alt="Register" ></a></td>
+</tr>
+</table>
+
+</form></td>
+</tr>
+ </table>
+
+</td>
+  </tr>
+</table>
+</div> 
+<p align="center">
+<a href="http://westlifevn.com/forums/index.php?showtopic=1246"><font size="3">[Cuộc tranh tài] Điểm hẹn AWOW - "Holy Month" Competition </font></a><br /><br />
+<a href="http://westlifevn.com/forums/index.php?showtopic=70"><font size="3">M&#7897;t 
+chút cho chúng ta - L&#7901;i &#273;&#7873; t&#7921;a</font></a><font size="3">&nbsp; |&nbsp;
+<a href="http://westlifevn.com/forums/index.php?showtopic=2">N&#7897;i quy di&#7877;n &#273;àn</a>&nbsp; 
+|&nbsp; </font><a href="http://westlifevn.com/forums/index.php?showtopic=197">
+<font size="3">M&#7897;t vòng quanh AWOW </font></a></p>
+
+<br />
+<br />
+<!--IBF.NEWPMBOX-->
+<table cellpadding='0' cellspacing='1' border='0' width='100%' align='center'>
+<tr>
+<td width="100%" valign="top">
+
+ </td>
+</tr>
+</table>
+<table cellspacing='1' border='0' width='100%' align='center'>
+ <tr>
+ <td width="21%" valign="top">
+<div class="borderwrap" style="display:none" id="fc_loginbox">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("loginbox", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Xin Đăng Nhập</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_loginbox">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("loginbox", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Xin Đăng Nhập</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+<td class='row1'>
+<form action="index.php" method="post" name="login">
+<input type="hidden" name="CookieDate" value="1" />
+<input type='hidden' name='act' value='Login' />
+<input type='hidden' name='CODE' value='01' />
+<input type='hidden' name='s' value='a73d6d457e3129f75ce9696dd7501bd7' />
+<input type='hidden' name='referer' value="" />
+Tài Khỏan:<input type='text' size='10' maxlength='64' name='UserName' class='forminput' />
+<br/>Mật Khẩu:<input type='password' size='10' name='PassWord' class='forminput' />
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="submit" name='submit' value="Đăng nhập" class='forminput' />
+</form>
+</td>
+</tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_navigation">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("navigation", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Mục Lục</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_navigation">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("navigation", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Mục Lục</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1' colspan='2'>
+                           <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=uportal">Trang chủ</a><br/>
+                           <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=idx">Diễn đàn</a><br/>
+                           <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Search&amp;f=1">Tìm Kiếm</a><br/>
+                           <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Members">Thành Viên</a><br/>
+                           <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Help">Trợ Giúp</a><br/>
+                           <script type="text/javascript">
+                           <!-- Begin
+                           function addbookmark()
+                           {
+                           bookmarkurl="http://westlifevn.com/forums"
+                           bookmarktitle="( ¯`·.º-:¦:- Vietnamese Westlife Fans Community -:¦:-º.·´¯)"
+                           if (document.all)
+                           window.external.AddFavorite(bookmarkurl,bookmarktitle)
+                           }
+                           //  End -->
+                           </script>
+				<a href="javascript:addbookmark()">Add To Your Favorites</a>
+				
+                     </td>
+	</tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_new_members">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("new_members", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Thành Viên Mới</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_new_members">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("new_members", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Thành Viên Mới</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>  
+                 <td class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=1992'>Gtatyan</a>  @ Today, 09:24 AM</td>
+               </tr><tr>  
+                 <td class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=1991'>gromaarisa</a>  @ Today, 07:56 AM</td>
+               </tr><tr>  
+                 <td class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=1989'>Annaczc</a>  @ Today, 12:06 AM</td>
+               </tr><tr>  
+                 <td class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=1987'>fewqib</a>  @ Yesterday, 04:20 PM</td>
+               </tr><tr>  
+                 <td class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=1986'>diznloz</a>  @ Yesterday, 04:03 PM</td>
+               </tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_top_posters">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("top_posters", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Top Thành Viên</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_top_posters">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("top_posters", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Top Thành Viên</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+             <td class='row1' valign='middle' align='left' width='35%'><b>Thành viên</b></td>
+             <td class='row1' valign='middle' align='left' width='65%'><b>Bài</b></td>
+               </tr>
+<tr>
+                 <td class='row1' width='80%'>1. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6'>Shay&#39;s Gorgeous Baby</a></td>
+                 <td class='row1' width='20%' align='right'>1021</td>
+</tr><tr>
+                 <td class='row1' width='80%'>2. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>thuyhuong1810</a></td>
+                 <td class='row1' width='20%' align='right'>766</td>
+</tr><tr>
+                 <td class='row1' width='80%'>3. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=12'>Becky87</a></td>
+                 <td class='row1' width='20%' align='right'>749</td>
+</tr><tr>
+                 <td class='row1' width='80%'>4. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=54'>fallleaves</a></td>
+                 <td class='row1' width='20%' align='right'>684</td>
+</tr><tr>
+                 <td class='row1' width='80%'>5. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=51'>uptowngirlwestlife</a></td>
+                 <td class='row1' width='20%' align='right'>599</td>
+</tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_calendar">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("calendar", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Sổ Lịch</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_calendar">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("calendar", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Sổ Lịch</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+			<tr>
+			<td align='center' width="14%" class='formsubtitle'>S</td><td align='center' width="14%" class='formsubtitle'>M</td><td align='center' width="14%" class='formsubtitle'>T</td><td align='center' width="14%" class='formsubtitle'>W</td><td align='center' width="14%" class='formsubtitle'>T</td><td align='center' width="14%" class='formsubtitle'>F</td><td align='center' width="14%" class='formsubtitle'>S</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1">
+	<div class="row1">1</div>
+</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1">
+	<div class="row1">2</div>
+</td><td class="row1">
+	<div class="row1"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=3'>
+					3</a></div>
+</td><td class="row1">
+	<div class="row1">4</div>
+</td><td class="row1">
+	<div class="row1">5</div>
+</td><td class="row1">
+	<div class="row1">6</div>
+</td><td class="row1">
+	<div class="row1">7</div>
+</td><td class="row1">
+	<div class="row1">8</div>
+</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1">
+	<div class="row1">9</div>
+</td><td class="row1">
+	<div class="row1">10</div>
+</td><td class="row1">
+	<div class="row1">11</div>
+</td><td class="row1">
+	<div class="row1"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=12'>
+					12</a></div>
+</td><td class="row1">
+	<div class="row1">13</div>
+</td><td class="row1">
+	<div class="row1">14</div>
+</td><td class="mcelltoday">
+	<div class="calday"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=15'>
+					15</a></div>
+</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1">
+	<div class="row1"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=16'>
+					16</a></div>
+</td><td class="row1">
+	<div class="row1">17</div>
+</td><td class="row1">
+	<div class="row1">18</div>
+</td><td class="row1">
+	<div class="row1">19</div>
+</td><td class="row1">
+	<div class="row1">20</div>
+</td><td class="row1">
+	<div class="row1">21</div>
+</td><td class="row1">
+	<div class="row1">22</div>
+</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1">
+	<div class="row1">23</div>
+</td><td class="row1">
+	<div class="row1">24</div>
+</td><td class="row1">
+	<div class="row1">25</div>
+</td><td class="row1">
+	<div class="row1">26</div>
+</td><td class="row1">
+	<div class="row1">27</div>
+</td><td class="row1">
+	<div class="row1"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=28'>
+					28</a></div>
+</td><td class="row1">
+	<div class="row1"><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;&amp;act=calendar
+					&amp;code=showday
+					&amp;y=2007&amp;m=12&amp;d=29'>
+					29</a></div>
+</td></tr>
+	<!-- NEW ROW-->
+<tr><td class="row1">
+	<div class="row1">30</div>
+</td><td class="row1">
+	<div class="row1">31</div>
+</td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td><td class="row1"><div class="row1"><!-- no content -->&nbsp;</div></td>
+		</tr>
+	</table>
+</div>
+<br/><div class="borderwrap" style="display:none" id="fc_board_stats">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("board_stats", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Thống kê</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_board_stats">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("board_stats", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Thống kê</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+			<td class="formsubtitle" colspan="2">0 Thành viên đang truy cập</td>
+		</tr>
+		<tr>
+			<td class="row1" width="1%"><img src='style_images/crystal/user.gif' border='0'  alt='Active Users' /></td>
+			<td class="row2">
+				<b>0</b> khách, <b>0</b> thành viên <b>0</b> giấu mặt
+				<div class="thin">Google.com</div>
+				<b>Xem chi tiết theo:</b> <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Online&amp;CODE=listall&amp;sort_key=click">Hoạt động cuối</a>, <a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=Online&amp;CODE=listall&amp;sort_key=name&amp;sort_order=asc&amp;show_mem=reg">Tên truy cập</a>
+			</td>
+		</tr>
+		<!--IBF.WHOSCHATTING--><tr>
+			<td class="formsubtitle" colspan="2">Thống kê</td>
+		</tr>
+		<tr>
+			<td class="row1" width="1%"><img src='style_images/crystal/stats.gif' border='0'  alt='Board Stats' /></td>
+			<td class="row2">Các thành viên đã đăng tổng cộng <b>14,902</b> bài viết<br/>Chúng ta đã có <b>1,069</b> thành viên<br/>Thành viên mới nhất là <b>Gtatyan</b><br />Truy cập nhiều nhất là <b>104</b> vào <b>Jul 4 2007, 09:57 PM</b></td>
+		</tr></table>
+</div>
+<br />
+ </td><td width="2%"></td>
+<td width="51%" valign="top">
+<div class="borderwrap" style="display:none" id="fc_real_news">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("real_news", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Thông báo</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_real_news">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("real_news", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Thông báo</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'><div class="borderwrap" style="display:none" id="fc_news1271">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("news1271", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>THÔNG BÁO TUYỂN TRANSLATOR ĐỢT 2</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_news1271">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("news1271", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>THÔNG BÁO TUYỂN TRANSLATOR ĐỢT 2</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+	<tr>
+		<td class="row2">
+			<span class="postdetails">Đăng bởi:&nbsp;<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=189">H1050</a>&nbsp;@&nbsp;Sep 23 2007, 06:42 AM</span>
+		</td>
+	</tr>
+	</table>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'><!--sizeo:4--><span style="font-size:14pt;line-height:100%"><!--/sizeo--><div align="center"><!--coloro:#FF0000--><span style="color:#FF0000"><!--/coloro--><b>THÔNG BÁO <br />TUYỂN TRANSLATOR ĐỢT 2</b><!--colorc--></span><!--/colorc--></div><!--sizec--></span><!--/sizec--><br /><br /><br />Hiện nay diễn đàn đang có rất nhiều kế hoạch cho nhóm Translator, nhưng lực lượng Translator hiện tại là khá mỏng. Vì vậy, những bạn nào yêu thích công việc T  ... [<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;
+					showtopic=1271'>chi tiết</a>] </td>
+</tr>
+</table>
+<table cellspacing="1" width="100%" cellpadding="4">
+               <tr>
+                   <td class='row1'>Trả lời: 2 :: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1271'>Xem trả lời</a></td>
+               </tr>
+</table>
+</div><br/><div class="borderwrap" style="display:none" id="fc_news1251">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("news1251", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>A little gift for AWOW : &#39;cos now We are One...</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_news1251">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("news1251", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>A little gift for AWOW : &#39;cos now We are One...</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+	<tr>
+		<td class="row2">
+			<span class="postdetails">Đăng bởi:&nbsp;<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=450">WeR1</a>&nbsp;@&nbsp;Sep 19 2007, 06:52 AM</span>
+		</td>
+	</tr>
+	</table>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'><div align="center"><!--fonto:Century Gothic--><span style="font-family:Century Gothic"><!--/fonto--><!--sizeo:5--><span style="font-size:18pt;line-height:100%"><!--/sizeo--><b><!--coloro:blue--><span style="color:blue"><!--/coloro-->&#39;Cos now We Are One...<!--colorc--></span><!--/colorc--></b><!--sizec--></span><!--/sizec--><!--fontc--></span><!--/fontc--><br /><br /><i><!--coloro:blueviolet--><span style="color:blueviolet"><!--/coloro--><!--sizeo:3--><span style="font-size:12pt;line-height:  ... [<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;
+					showtopic=1251'>chi tiết</a>] </td>
+</tr>
+</table>
+<table cellspacing="1" width="100%" cellpadding="4">
+               <tr>
+                   <td class='row1'>Trả lời: 3 :: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1251'>Xem trả lời</a></td>
+               </tr>
+</table>
+</div><br/><div class="borderwrap" style="display:none" id="fc_news1246">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("news1246", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>[Cuộc tranh tài] Điểm hẹn AWOW - &quot;Holy Month&quot; Competition</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_news1246">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("news1246", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>[Cuộc tranh tài] Điểm hẹn AWOW - &quot;Holy Month&quot; Competition</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+	<tr>
+		<td class="row2">
+			<span class="postdetails">Đăng bởi:&nbsp;<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=501">Ilumtics_Deutschland</a>&nbsp;@&nbsp;Sep 17 2007, 11:13 PM</span>
+		</td>
+	</tr>
+	</table>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'><br />Chỉ còn 1 ngày nữa là ngôi nhà thân yêu của chúng ta - <!--sizeo:3--><span style="font-size:12pt;line-height:100%"><!--/sizeo--><b>A</b>mazing <b>W</b>orld <b>O</b>f <b>W</b>estlife<!--sizec--></span><!--/sizec--> - sẽ tròn một tuổi. <br /><br />Ngày 19/09/2006 là một thời khắc đặc biệt mà sẽ không ai trong những sáng lập viên AWOW có thể quên được , là ngày mà kể từ đó hàng trăm, thậm chí hàng ngàn những người hâm m  ... [<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;
+					showtopic=1246'>chi tiết</a>] </td>
+</tr>
+</table>
+<table cellspacing="1" width="100%" cellpadding="4">
+               <tr>
+                   <td class='row1'>Trả lời: 2 :: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1246'>Xem trả lời</a></td>
+               </tr>
+</table>
+</div><br/><div class="borderwrap" style="display:none" id="fc_news1209">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("news1209", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Nếu bạn không thể log in vào AWOW ... ?</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_news1209">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("news1209", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Nếu bạn không thể log in vào AWOW ... ?</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+	<tr>
+		<td class="row2">
+			<span class="postdetails">Đăng bởi:&nbsp;<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=501">Ilumtics_Deutschland</a>&nbsp;@&nbsp;Sep 5 2007, 10:58 PM</span>
+		</td>
+	</tr>
+	</table>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'>BQT AWOW thời gian vừa qua nhận được một số ý kiến về việc các mem không thể log in vào AWOW .<br /><br />Nay Ilum xin đưa ra một số giải pháp tạm thời ( trước khi tiến hành sửa toàn diện AWOW ) . Hy vọng sẽ giúp ích cho các bạn , và thành thật xin lỗi vì sự bất tiện này . <br /><br />Theo thứ tự , các bạn hãy thử :<br /><br />1/ Log in từ trang chủ <br /><br />2/ Nếu không được , vào trong diễn đà  ... [<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;
+					showtopic=1209'>chi tiết</a>] </td>
+</tr>
+</table>
+<table cellspacing="1" width="100%" cellpadding="4">
+               <tr>
+                   <td class='row1'>Trả lời: 0 :: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1209'>Xem trả lời</a></td>
+               </tr>
+</table>
+</div><br/><div class="borderwrap" style="display:none" id="fc_news1094">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("news1094", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Kết quả sơ bộ Kỳ tuyển mods</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_news1094">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("news1094", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Kết quả sơ bộ Kỳ tuyển mods</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4">
+	<tr>
+		<td class="row2">
+			<span class="postdetails">Đăng bởi:&nbsp;<a href="http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=12">Becky87</a>&nbsp;@&nbsp;Aug 18 2007, 10:56 AM</span>
+		</td>
+	</tr>
+	</table>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1'><div align="center"><!--sizeo:5--><span style="font-size:18pt;line-height:100%"><!--/sizeo--><!--coloro:#FF0000--><span style="color:#FF0000"><!--/coloro--><b>~ Kết quả sơ bộ kỳ tuyển mods ~</b><!--colorc--></span><!--/colorc--><!--sizec--></span><!--/sizec--></div><br /><br />Như đã hứa, hôm nay 18/8/07, ban điều hành AWOW thống nhất set trial mods cho các bạn đã đăng ký tuyển như sau :<br /><br /><br /><!--coloro:#3333FF--><span style="color:#3333FF"><!--/co  ... [<a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;
+					showtopic=1094'>chi tiết</a>] </td>
+</tr>
+</table>
+<table cellspacing="1" width="100%" cellpadding="4">
+               <tr>
+                   <td class='row1'>Trả lời: 0 :: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1094'>Xem trả lời</a></td>
+               </tr>
+</table>
+</div></td></tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_latest_posts_big">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("latest_posts_big", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Bài Viết Mới</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_latest_posts_big">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("latest_posts_big", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Bài Viết Mới</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+             <th width="40%" nowrap="nowrap" colspan="3">Chủ đề</th>
+             <th width="14%" align="center" nowrap="nowrap">Tác giả</th>
+             <th width="14%" align="center" nowrap="nowrap">Trả lời</th>
+             <th width="32%" nowrap="nowrap">Bài viết mới</th>
+</tr>
+<!-- Begin Topic Entry 350 -->
+    <tr> 
+          <td align='center' class='row1'><img src='style_images/crystal/f_norm_no.gif' border='0'  alt='No New Posts' /></td>
+      <td align='center' class='row1'><img src='style_images/crystal/f_pinned.gif' border='0'  alt='Pinned' /></td>
+      <td class='row1'>
+          <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+                  <tr> 
+                        <td valign='middle'></td>
+            <td width='100%'><span class='linkthru'>Pinned:  <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=350' class='linkthru' title=' Nov 22 2006, 02:49 PM'>Ảnh thành viên nè&#33;&#33;&#33;&#33;</a></span>  <span id='small'>( <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					350&amp;st=0'>1 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					350&amp;st=20'>2 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					350&amp;st=40'>3 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					350&amp;st=280'>...15 </a>)</span></td>
+          </tr>
+        </table>
+        <span class='desc'></span></td>
+      <td align='center' class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=51'>
+		uptowngirlwestlife</a></td>
+      <td align='center' class='row1'>283</td>
+      <td class='row1'>Today, 07:31 AM<br/>
+                      Trong: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=25'>Chatroom | Phòng chat</a><br/>
+                      <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=350&amp;view=getlastpost'>Bởi:</a> <b><b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>
+		mylove_westshane</a></b></b></td>
+    </tr>
+    <!-- End Topic Entry 350 --><!-- Begin Topic Entry 781 -->
+    <tr> 
+          <td align='center' class='row1'><img src='style_images/crystal/f_norm_no.gif' border='0'  alt='No New Posts' /></td>
+      <td align='center' class='row1'>&nbsp;</td>
+      <td class='row1'>
+          <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+                  <tr> 
+                        <td valign='middle'></td>
+            <td width='100%'><span class='linkthru'> <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=781' class='linkthru' title=' Jun 11 2007, 07:51 AM'>Dịch vụ dịch nghĩa ca khúc theo yêu cầu :D</a></span>  <span id='small'>( <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					781&amp;st=0'>1 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					781&amp;st=20'>2 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					781&amp;st=40'>3 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					781&amp;st=100'>...6 </a>)</span></td>
+          </tr>
+        </table>
+        <span class='desc'>Westlife &amp; Brian only</span></td>
+      <td align='center' class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=12'>
+		Becky87</a></td>
+      <td align='center' class='row1'>113</td>
+      <td class='row1'>Today, 07:28 AM<br/>
+                      Trong: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=12'>Albums &amp; Songs</a><br/>
+                      <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=781&amp;view=getlastpost'>Bởi:</a> <b><b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>
+		mylove_westshane</a></b></b></td>
+    </tr>
+    <!-- End Topic Entry 781 --><!-- Begin Topic Entry 1541 -->
+    <tr> 
+          <td align='center' class='row1'><img src='style_images/crystal/f_norm_no.gif' border='0'  alt='No New Posts' /></td>
+      <td align='center' class='row1'>&nbsp;</td>
+      <td class='row1'>
+          <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+                  <tr> 
+                        <td valign='middle'></td>
+            <td width='100%'><span class='linkthru'> <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1541' class='linkthru' title=' Dec 3 2007, 06:50 AM'>NEW MAGAZINE - 30th October 2007</a></span>  </td>
+          </tr>
+        </table>
+        <span class='desc'>^^</span></td>
+      <td align='center' class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>
+		mylove_westshane</a></td>
+      <td align='center' class='row1'>3</td>
+      <td class='row1'>Today, 07:20 AM<br/>
+                      Trong: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=9'>Interview | Phỏng vấn</a><br/>
+                      <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=1541&amp;view=getlastpost'>Bởi:</a> <b><b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>
+		mylove_westshane</a></b></b></td>
+    </tr>
+    <!-- End Topic Entry 1541 --><!-- Begin Topic Entry 863 -->
+    <tr> 
+          <td align='center' class='row1'><img src='style_images/crystal/f_norm_no.gif' border='0'  alt='No New Posts' /></td>
+      <td align='center' class='row1'>&nbsp;</td>
+      <td class='row1'>
+          <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+                  <tr> 
+                        <td valign='middle'></td>
+            <td width='100%'><span class='linkthru'> <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=863' class='linkthru' title=' Jun 29 2007, 12:38 PM'>Đố chút coi nha&#33;</a></span>  <span id='small'>( <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					863&amp;st=0'>1 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					863&amp;st=20'>2 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					863&amp;st=40'>3 </a><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=
+					863&amp;st=60'>...4 </a>)</span></td>
+          </tr>
+        </table>
+        <span class='desc'>C&#39;mon&#33; Toàn câu đố hay cả các bác ạ&#33;</span></td>
+      <td align='center' class='row1'><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=82'>
+		...::Babywolf::...</a></td>
+      <td align='center' class='row1'>65</td>
+      <td class='row1'>Today, 07:16 AM<br/>
+                      Trong: <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=25'>Chatroom | Phòng chat</a><br/>
+                      <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showtopic=863&amp;view=getlastpost'>Bởi:</a> <b><b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=125'>
+		mylove_westshane</a></b></b></td>
+    </tr>
+    <!-- End Topic Entry 863 --></table>
+</div>
+<br />
+ </td><td width="2%"></td>
+<td width="21%" valign="top">
+<div class="borderwrap" style="display:none" id="fc_top_forums">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("top_forums", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Top Diễn Đàn</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_top_forums">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("top_forums", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Top Diễn Đàn</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>  
+                 <td class='row1'>1. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=25'>Chatroom | Phòng chat</a></td>
+                 <td class='row1' width='15%'>78</td>
+                 <td class='row1' width='15%'>2492</td>
+               </tr><tr>  
+                 <td class='row1'>2. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=35'>Westlifers</a></td>
+                 <td class='row1' width='15%'>61</td>
+                 <td class='row1' width='15%'>2046</td>
+               </tr><tr>  
+                 <td class='row1'>3. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=29'>Thùng rác</a></td>
+                 <td class='row1' width='15%'>808</td>
+                 <td class='row1' width='15%'>933</td>
+               </tr><tr>  
+                 <td class='row1'>4. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=24'>Other Bands &amp; Singers | Ca sĩ &amp; Ban nhạc khác</a></td>
+                 <td class='row1' width='15%'>72</td>
+                 <td class='row1' width='15%'>1361</td>
+               </tr><tr>  
+                 <td class='row1'>5. <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showforum=27'>Cinema &amp; Sports | Điện ảnh &amp; Thể thao</a></td>
+                 <td class='row1' width='15%'>35</td>
+                 <td class='row1' width='15%'>859</td>
+               </tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_site_search">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("site_search", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Tìm Bài Viết</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_site_search">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("site_search", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Tìm Bài Viết</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1' colspan='2'>
+<form action="index.php" method="post">
+<input type="hidden" name="act" value="Search" />
+<input type="hidden" name="CODE" value="01" />
+<input type="hidden" name="joinname" value="1" />
+<input type="hidden" name="cats" class="forminput" value="all" />
+<input type="hidden" name="prune" class="forminput" value="0" />
+<input type="hidden" name="sort_key" class="forminput" value="last_post" />
+Từ khóa<br/>
+<input type="hidden" name="forums" value="all" />
+<input type="text" maxlength="100" size="15" name="keywords" class="forminput" /><br/>
+Tìm Kiếm với:<br/><select name='result_type' class="forminput">
+<option value='topics' selected='selected'>Topics</option>
+<option value='posts' >Posts</option>
+</select><br/>
+<input type="submit" value="Search" />
+</form>
+                     </td>
+               </tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_websearch">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("websearch", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Web Tìm Kiếm</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_websearch">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("websearch", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Web Tìm Kiếm</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+                 <td class='row1' colspan='2' align="center">
+<form name='web' action='javascript:s_web()' method='get' target='_self'>
+  <script type="text/javascript">
+   <!-- 
+function sr(wd,st,tx){si="";for(var t=1;t<=wd.length;t++){if(wd.substring(t-1,t)==" ")si+="+";else{if(wd.substring(t-1,t)=="+")si+="%2B";else si+=wd.substring(t-1,t);}}st+=si;win(st,tx);}
+function win(nm){dt=new Date();st="location=yes,menubar=yes,resizable=yes,status=yes,toolbar=yes,scrollbars=yes,left=0,top=0,width=790,height=";if(parseInt(navigator.appVersion)>=4){t=window.open(nm,dt.getTime(),st+(screen.height-133));}else{t=window.open(nm,dt.getTime(),st+"height=600");}}
+   //-->
+  </script>
+  <script type="text/javascript">
+   <!-- 
+dc=document;
+function s_web(){wd=dc.web.query.value;id=dc.web.service.selectedIndex;st=dc.web.service.options[id].value;tx=dc.web.service.options[id].text;sr(wd,st,tx);}
+   //-->
+  </script>
+ <input name="query" style="color: #000000;" size="15" /> 
+     <br/><br/>
+  <select size="1" name="service" style="color: #000000;">
+        <option>---Web Search---</option>
+        <option selected="selected" value="http://www.google.com/search?q=">Google</option>
+        <option value="http://www.altavista.com/cgi-bin/query?pg=q&amp;what=web&amp;fmt=&amp;q=">AltaVista</option>
+        <option value="http://www.hotbot.lycos.com/?query=">HotBot</option> 
+    	<option value="http://ixquick.com/do/metasearch.pl?query=">IXquick</option> 
+	<option value="http://search.lycos.com/main/default.asp?lpv=1&amp;loc=searchhp&amp;query=">Lycos</option> 
+	<option value="http://search.metacrawler.com/crawler?general=">Metacrawler</option> 
+	<option value="http://search.msn.com/results.asp?RS=CHECKED&amp;FORM=MSNH&amp;v=1&amp;q=">MSN</option> 
+	<option value="http://search.netscape.com/search.psp?search=">Netscape</option> 
+	<option value="http://www.overture.com/d/search/p/go/?Keywords=">Overture</option> 
+	<option value="http://search.thunderstone.com/texis/websearch/?q=">Thunderstone</option> 
+	<option value="http://search.yahoo.com/bin/search?p=">Yahoo</option>
+    <option value="http://search.aol.com/aolcom/search?invocationType=topsearchbox.%2Faolcom%2Findex.jsp&amp;query=">AOL Search</option>
+	    <option>---Word Search---</option>
+	<option value="http://www.thesaurus.com/cgi-bin/search?config=roget&amp;words=">Thesaurus</option>
+	<option value="http://www.dictionary.com/cgi-bin/dict.pl?term=">Dictionary</option></select>
+	<input style="color:#000000" onclick="s_web()" type="button" value="Search" name="button" />
+                 </form>
+               </td>
+            </tr></table>
+</div>
+<br /><div class="borderwrap" style="display:none" id="fc_latest_files_blocktitle">
+	<div class="maintitlecollapse">
+		<p class="expand"><a href='javascript:togglecategory("latest_files_blocktitle", 0);'><img src='style_images/crystal/exp_plus.gif' border='0'  alt='Expand' /></a></p>
+		<p>Mới Nhật</p>
+	</div>
+</div>
+<div class="borderwrap" style="display:show" id="fo_latest_files_blocktitle">
+	<div class="maintitle">
+		<p class="expand"><a href='javascript:togglecategory("latest_files_blocktitle", 1);'><img src='style_images/crystal/exp_minus.gif' border='0'  alt='Collapse' /></a></p>
+		<p>Mới Nhật</p>
+	</div>
+	<table cellspacing="1" width="100%" cellpadding="4"><tr>
+		<td class='row1' width='100%'><table class='plainborder' width='100%'>
+				<tr>
+					<td class='row1' width='10%'>
+						Tập Tin:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;download=322' target='_blank'>
+						Together girl forever</a></b>
+					</td>
+				</tr>
+				<tr>
+					<td class='row1' width='10%'>
+						Tác Giả:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6' 
+						target='_blank'>[ IOU ]</a></b>
+					</td>
+				</tr>
+			</table><table class='plainborder' width='100%'>
+				<tr>
+					<td class='row1' width='10%'>
+						Tập Tin:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;download=320' target='_blank'>
+						Still here</a></b>
+					</td>
+				</tr>
+				<tr>
+					<td class='row1' width='10%'>
+						Tác Giả:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6' 
+						target='_blank'>[ Westlife ]</a></b>
+					</td>
+				</tr>
+			</table><table class='plainborder' width='100%'>
+				<tr>
+					<td class='row1' width='10%'>
+						Tập Tin:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;download=318' target='_blank'>
+						Close your eyes</a></b>
+					</td>
+				</tr>
+				<tr>
+					<td class='row1' width='10%'>
+						Tác Giả:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6' 
+						target='_blank'>[ Westlife ]</a></b>
+					</td>
+				</tr>
+			</table><table class='plainborder' width='100%'>
+				<tr>
+					<td class='row1' width='10%'>
+						Tập Tin:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;download=317' target='_blank'>
+						No more tears enough is enough</a></b>
+					</td>
+				</tr>
+				<tr>
+					<td class='row1' width='10%'>
+						Tác Giả:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6' 
+						target='_blank'>[ Westlife ]</a></b>
+					</td>
+				</tr>
+			</table><table class='plainborder' width='100%'>
+				<tr>
+					<td class='row1' width='10%'>
+						Tập Tin:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;download=316' target='_blank'>
+						You see friends, I see lovers</a></b>
+					</td>
+				</tr>
+				<tr>
+					<td class='row1' width='10%'>
+						Tác Giả:
+					</td>
+					<td class='row1' width='90%'>
+						<b><a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;showuser=6' 
+						target='_blank'>[ Westlife ]</a></b>
+					</td>
+				</tr>
+			</table></td>
+	</tr></table>
+</div>
+<br />
+ </td>
+ </tr>
+</table>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%' align='center'>
+			<tr>
+				<td align='center'>Powered by Unreal Portal v2.1.0 &copy; 2005 <a href='http://www.unreal-solutions.org' target='_blank'>Unreal Solutions.</a>
+				</td>
+			</tr>
+		</table><!--TASK--><img src='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=task' border='0' height='1' width='1' alt='' /><!--ETASK-->
+<script type='text/javascript'>
+function d21_random_aff()
+{
+	var affs = new Array();
+	affs[0] = new Array('2', 'http://forum.e-lifevn.com/templates/ca_aphrodite/images/e_lifevn_logo.jpg');
+	affs[1] = new Array('3', 'http://westlifevn.com/SF_NL_24.jpg');
+	affs[2] = new Array('4', 'http://westlifevn.com/Link_Grou.jpg');
+	affs[3] = new Array('5', 'http://i13.tinypic.com/2iu85xl.jpg');
+
+	var cpos = parseInt(document.forms['d21affs'].elements['curpos'].value);
+	if (!cpos || cpos < 0 || cpos == null)
+	{
+		cpos = 0;
+	}
+
+	if (cpos > 0 && cpos >= affs.length)
+	{
+		cpos = 0;
+	}
+
+	var npos = cpos+1;
+	document.forms['d21affs'].elements['curpos'].value = npos;
+	document.forms['d21affs'].elements['affid'].value  = affs[cpos][0];
+	document.images['d21_affs_img'].src = affs[cpos][1];
+	setTimeout('d21_random_aff()', 5000);
+}
+
+function d21_goto_aff()
+{
+	var aid = document.forms['d21affs'].elements['affid'].value;
+	var win = window.open(ipb_var_base_url+'act=affiliates&code=go&id='+aid, 'Affiliates', 'width=,height=,top=0,left=0,resizable=yes,scrollbars=yes,location=yes,directories=yes,status=yes,menubar=yes,toolbar=yes');
+}
+</script>
+<div align='center'>
+  <div class='borderwrap' style='width:35%'>
+  <div class='maintitle'>Random Affiliates</div>
+  <form name='d21affs'>
+  <input type='hidden' name='curpos' value='' />
+  <input type='hidden' name='affid' value='' />
+  <table align='center' class='ipbtable' cellpadding='3' cellspacing='0'>
+    <tr>
+      <td align='center' class='row2'>
+        <a href='javascript:d21_goto_aff()' title='Visit This Affiliates Website'><img src='' border='0' name='d21_affs_img' alt='' /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align='center' class='formsubtitle'>
+        [ <a href='http://westlifevn.com/forums/index.php?s=a73d6d457e3129f75ce9696dd7501bd7&amp;act=affiliates'>View All Affiliates</a> ]
+      </td>
+    </tr>
+  </table></form></div>
+</div>
+<script type='text/javascript'>d21_random_aff();</script>
+<br />
+<div id="c_l">
+<div id="news_r">
+<div id="news_bg">
+<table width="100%" cellspacing="0" cellpadding="0" valign="middle" align="center">
+ 	<tr>
+
+<td width="45%"> </td>
+
+<td align="right" nowrap="nowrap"><font color="#BBBDC0">Time is now: 15th December 2007 - 09:59 AM</font></td>
+	</tr>
+</table>
+       </div></div></div><br />
+<script type='text/javascript'>
+//<![CDATA[
+menu_do_global_init();//]]>
+</script>
+ 
+</div>
+<!-- Copyright Information -->
+        				  <div align='center' class='copyright'>
+        				  	<a href='http://www.invisionboard.com' style='text-decoration:none' target='_blank'>Invision Power Board</a>
+        				  	v2.1.7 &copy; 2007 &nbsp;IPS, Inc.
+        				  </div>
+		<!-- / Copyright -->
+</div></div></div>
+</body> 
+</html>
